@@ -14,7 +14,7 @@ async function main() {
             content : "what is 2 + 2"
         }]
       });
-    //   console.log(msg);
+      console.log(msg);
 }
 
 main();
